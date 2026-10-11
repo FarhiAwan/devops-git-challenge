@@ -1,2 +1,2 @@
 #!/bin/bash
-echo Deploy v1
+echo Deploy STAGING
