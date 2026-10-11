@@ -1,2 +1,3 @@
 #!/bin/bash
-echo Deploy v1
+echo Deploy DEV and STAGING
+echo "Dev feature added"
